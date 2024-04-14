@@ -1,6 +1,6 @@
 {
-  "name": "ecosystem",
-  "author": "Optimism PBC",
+  "name": "erf40system",
+  "author": "kansas1295",
   "license": "MIT",
   "scripts": {
     "clean": "pnpm recursive run clean",
@@ -22,13 +22,10 @@
   "directories": {
     "doc": "docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kalianda-store/ecosystem.git"
-  },
+  "repository": "git+https://github.com/Kalianda-store/ecosystem.git",
   "bugs": {
     "url": "https://github.com/Kalianda-store/ecosystem/issues"
   },
   "homepage": "https://github.com/Kalianda-store/ecosystem#readme",
-  "description": ""
+  "description": "start.yml"
 }
